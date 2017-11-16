@@ -5,4 +5,4 @@ git tracks changes of files.
 Creating a new branch is quick and simple.
 This is new content.
 Test stash.
-Test the branch.
+Test branch.
